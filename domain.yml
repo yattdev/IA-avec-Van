@@ -34,6 +34,7 @@ responses:
   - text: "Je m'appelle Amadou"
 
 action:
+- action_ask_user_name
 
 
 session_config:
