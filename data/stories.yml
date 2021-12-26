@@ -28,3 +28,14 @@ stories:
   - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
+
+- story: greeting story
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+
+- story: interactive to return the time
+  steps:
+  - intent: time
+  - action: utter_time
