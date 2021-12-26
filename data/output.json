@@ -1,0 +1,299 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Aujourd'hui c'est quelle jour ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Le ciel est'il nuage"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Nous somme en quelle saison"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Nous somme quel jour aujourd'hui"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Peut tu me dire l'heure"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Peut tu me dire la date"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Peut tu me dire le temps"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Pouvez vous me dire l'heure"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Pouvez vous me dire la date"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Pouvez vous me dire le temps"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Pouvons nous savoir la meteo"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quel est l'heure ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quel est l'heure aujourd'hui"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quel est la date ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quel est la date aujourd'hui"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quel est le temps ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quel est le temps aujourd'hui"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quel l'heure fait'il ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quel la date fait'il ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quel le temps fait'il ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quelle est l'heure ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quelle est l'heure aujourd'hui"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quelle est la date ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quelle est la date aujourd'hui"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quelle est le temps ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quelle est le temps aujourd'hui"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quelle l'heure fait'il ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quelle la date fait'il ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Quelle le temps fait'il ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Tu peut me dire l'heure"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Tu peut me dire la date"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Tu peut me dire le temps"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Vous pouvez me dire l'heure"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Vous pouvez me dire la date"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "Vous pouvez me dire le temps"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "puis-je savoir la meteo"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "puis-je savoir la saison"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "puis-je savoir la saison actuelle"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "puis-je savoir quelle somme nous la saison"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quel est l'heure ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quel est l'heure aujourd'hui"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quel est la date ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quel est la date aujourd'hui"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quel est le temps ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quel est le temps aujourd'hui"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quel l'heure fait'il ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quel la date fait'il ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quel le temps fait'il ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quelle est l'heure ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quelle est l'heure aujourd'hui"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quelle est la date ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quelle est la date aujourd'hui"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quelle est le temps ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quelle est le temps aujourd'hui"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quelle l'heure fait'il ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quelle la date fait'il ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quelle le temps fait'il ?"
+      },
+      {
+        "entities": [],
+        "intent": "time",
+        "text": "quelle saison somme nous"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}
