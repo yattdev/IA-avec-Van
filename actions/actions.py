@@ -22,3 +22,16 @@ class ActionHelloWorld(Action):
         dispatcher.utter_message(text="Hello World!")
 
         return []
+
+
+class ActionAskUserName(Action):
+    """ An action, to ask user name """
+    def name(self) -> Text:
+        return "action_ask_user_name"
+
+    async def run(self, dispatcher: CollectingDispatcher, tracker: Tracker,
+                  domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        dispatcher.utter_message(text="Je m'appel bot, et toi ?")
+
+        return []
