@@ -11,3 +11,13 @@ rules:
   steps:
   - intent: bot_challenge
   - action: utter_iamabot
+
+- rule:
+  steps:
+  - intent: give_is_name
+  - action: action_ask_user_name
+
+- rule:
+  steps:
+  - intent: user_give_is_name
+  - action: utter_give_is_name
