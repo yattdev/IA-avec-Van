@@ -1,0 +1,21 @@
+// Template for time intention
+%[time](100)
+    [&quel|quelle] est ~[temps] ?
+    [&quel|quelle] ~[temps] fait'il ?
+    [Tu peut|Vous pouvez|Peut tu|Pouvez vous] me dire ~[temps]
+    [Pouvons nous|puis-je] savoir la meteo
+    Nous somme quel jour aujourd'hui
+    [&quel|quelle] est ~[temps] aujourd'hui
+    Aujourd'hui c'est quelle jour ?
+    Nous somme en quelle saison
+    quelle saison somme nous
+    puis-je savoir la saison
+    puis-je savoir la saison [actuelle?]
+    puis-je savoir quelle somme nous la saison
+    Le ciel est'il nuage
+
+
+~[temps]
+   le temps
+   l'heure
+   la date
